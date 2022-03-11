@@ -1,3 +1,5 @@
+Ce back-end fournit une API et un backoffice pour les lecteurs d'epubs en ligne, et a été réalisé sous Symfony 5.4 pour un projet de fin d'étude.
+
 Marche à suivre pour avoir le backend chez vous, fonctionnel, avec tout ce qu'il y a sur la base de données du serveur et ses fichiers epubs et compagnie !
 
 Tout simplement : Clonez ce repo, après ouvrez VSCode dans le dossier BookOWonder, créez un fichier .env.local avec ceci dedans :
